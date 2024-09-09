@@ -19,7 +19,7 @@ public class Main {
 			double sum = 0;
 			for (DeptEmployee d:department) {
 				sum+=d.computeSalary();
-			}y
+			}
 			System.out.println(sum);
 		}
 		else {
